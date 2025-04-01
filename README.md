@@ -1,1 +1,1 @@
-Python Hands on practice codes #Problemsolving
+Python hands-on practice codes #Problemsolving
